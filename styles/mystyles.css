@@ -1,0 +1,43 @@
+/*! 
+    write your overwrite styles here. Each page has it referenced :) 
+    Teralyn Whipple - December 15, 2021
+*/
+
+/* Personal styles */
+.underheading {
+    font-size: 12;
+    color: gray;
+}
+
+.underheading2 {
+    font-style: italic;
+    font-size: 12;
+    color: gray;
+}
+
+
+/*! overwritten styles */
+.p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.caption {
+    color: gray;
+    text-align: end;
+}
+
+.section-heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+/*! overwrite styles */
+
+.bold {
+    font-weight: bold;
+}
+
+.light {
+    font-weight: light;
+}
+
